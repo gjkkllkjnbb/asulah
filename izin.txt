@@ -1,2 +1,1 @@
-#izinvps
-### TES-OM lifetime 139.177.185.248
+#izinvps 139.177.185.248 LIFETIME 
