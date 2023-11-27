@@ -4,8 +4,8 @@ REPO="https://raw.githubusercontent.com/Nixxx-XD/asulah/main/"
 clear
 restart_system() {
 TIME="10"
-CHATID="5795571992"
-KEY="6386703502:AAGiUjNES9aXxBWzuqNTiqDBDqd0uLcGFAs"
+CHATID="5289385265"
+KEY="6793583654:AAFmNTtoZMTE8dRlIWzQ_3FrJl3tpK7AChI"
 URL="https://api.telegram.org/bot$KEY/sendMessage"
 echo -e ""
 TEXT="
@@ -190,7 +190,7 @@ run_ei() {
   sysctl -w net.ipv6.conf.default.disable_ipv6=1 >/dev/null 2>&1
   
   # Link izin IP VPS
-  url_izin='https://raw.githubusercontent.com/Buyye/Nixxx-XD/asulah/izin.txt'
+  url_izin='https://raw.githubusercontent.com/Nixxx-XD/asulah/main/izin.txt'
 
   # Mendapatkan IP VPS saat ini
   ip_vps=$(curl -s ifconfig.me)
