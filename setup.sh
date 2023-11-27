@@ -4,8 +4,8 @@ REPO="https://raw.githubusercontent.com/Nixxx-XD/asulah/main/"
 clear
 restart_system() {
 TIME="10"
-CHATID="5795571992"
-KEY="6386703502:AAGiUjNES9aXxBWzuqNTiqDBDqd0uLcGFAs"
+CHATID="6630028565"
+KEY="6319490468:AAFJvC4iCPDLZQUr8I_XUVwBqKUk1ODDykQ"
 URL="https://api.telegram.org/bot$KEY/sendMessage"
 echo -e ""
 TEXT="
